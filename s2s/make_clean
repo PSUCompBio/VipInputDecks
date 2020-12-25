@@ -1,0 +1,10 @@
+rm -rv scenario_*
+rm viper3d_th_*.txt
+rm mclock.txt
+rm guage_list.txt
+rm viper3d_xs_1_frame_*.vtk
+rm viper3d_obs_frame_*.vtk
+rm viper3d_xs_1_frame_*.vtk
+rm viper3d_xs_2_frame_*.vtk
+rm viper3d_xs_3_frame_*.vtk
+rm viper1d_th_overpressure.txt

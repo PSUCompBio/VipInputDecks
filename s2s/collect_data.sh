@@ -1,7 +1,6 @@
-mkdir collected_data
-rm collected_data/*
-for i in {301..972}
+rm collected_data_4/*
+for i in {1..162}
 do
 	echo "directory: scenario_$i"
-	cp scenario_$i/viper3d_th_overpressure.txt collected_data/viper3d_th_overpressure_s$i.txt
+	cp temp_output_files_4/scenario_$i/viper3d_th_overpressure.txt collected_data_4/viper3d_th_overpressure_front_right_six_s$i.txt
 done
