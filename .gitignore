@@ -6,6 +6,7 @@ gauge_list.txt
 
 */*.vtk
 */*/*.vtk
+*.vtk
 
 */*_dynamicpressure.txt
 */*/*_dynamicpressure.txt
