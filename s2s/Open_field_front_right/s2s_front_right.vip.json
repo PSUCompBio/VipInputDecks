@@ -1,0 +1,23 @@
+{
+    "VIPER_JSON": true,
+    "VIPER_JSON_VERSION_MAJOR": 1,
+    "VIPER_JSON_VERSION_MINOR": 17,
+    "VIPER_JSON_VERSION_PATCH": 8,
+    "charge_density_od": 1600,
+    "charge_energy_od": 4520000,
+    "charge_mass_od": 1,
+    "composition_od": 0,
+    "jwl_od_a1": 371200000000,
+    "jwl_od_a2": 3231000064,
+    "jwl_od_abefact": 1,
+    "jwl_od_abetime": 1,
+    "jwl_od_br": 9.9999999747524271e-07,
+    "jwl_od_dcj": 6930,
+    "jwl_od_e0": 5400000,
+    "jwl_od_gub": 1.3999999761581421,
+    "jwl_od_omega": 0.30000001192092896,
+    "jwl_od_pcj": 20999999488,
+    "jwl_od_r1": 4.1500000953674316,
+    "jwl_od_r2": 0.94999998807907104,
+    "jwl_od_rho": 1540
+}
